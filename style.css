@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  background-image: url("media/kirby.jpg");
+  text-align: center;
+}
+
+h1, h3 {
+  margin-top: 0;
+}
+
+hr {
+  width: 700px;
+  color: deeppink;
+  border: 1px solid deeppink;
+}
+
+hr.bodyhr {
+  border: 1px solid rgb(200, 200, 200);
+}
+
+.main {
+  width: 900px;
+  text-align: center;
+  margin: auto;
+}
+
+.title {
+  padding: 20px;
+  background-color: pink;
+}
+
+.body {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 24px;
+}
