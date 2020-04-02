@@ -11,7 +11,7 @@ h1, h3 {
 hr {
   width: 700px;
   color: deeppink;
-  border: 1px solid deeppink;
+  border: 1px solid rgb(255, 162, 203);
 }
 
 hr.bodyhr {
@@ -32,4 +32,11 @@ hr.bodyhr {
 .body {
   background-color: rgba(255, 255, 255, 0.8);
   padding: 24px;
+}
+
+button {
+  background-color: rgb(255, 162, 203);
+  border: none;
+  padding: 10px 25px;
+  margin: 10px 25px;
 }
